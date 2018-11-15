@@ -3,12 +3,57 @@
 {
 "width": "30",
 "textAlign": "center",
-"label": "CO"      
+"label": "CO"
 },
 {
 "width": "95",
+"textAlign": "center",
+"label": "NUMBER#"
+},
+{
+"width": "150",
 "textAlign": "left",
-"label": "NUMBER"      
+"label": "DESCRIPTION"
+},
+{
+"width": "32",
+"textAlign": "center",
+"label": "QTY"
+},
+{
+"width": "130",
+"textAlign": "left",
+"label": "COMMENTS"
+},
+{
+"width": "88",
+"textAlign": "center",
+"label": "FROM"
+},
+{
+"width": "88",
+"textAlign": "center",
+"label": "TO"
+},
+{
+"width": "52",
+"textAlign": "center",
+"label": "LIST PRICE"
+},
+{
+"width": "52",
+"textAlign": "center",
+"label": "OUR PRICE"
+},
+{
+"width": "40",
+"textAlign": "center",
+"label": "STOCK"
+},
+{
+"width": "50",
+"textAlign": "center",
+"label": "CART"
 }
 ]
 }
