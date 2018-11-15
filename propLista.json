@@ -9,6 +9,11 @@
 "width": "95",
 "textAlign": "left",
 "label": "NUMBER"      
+},
+{
+"width": "137",
+"textAlign": "right",
+"label": "DESC"      
 }
 ]
 }
