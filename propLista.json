@@ -1,0 +1,14 @@
+{
+"coluna": [
+{
+"width": "30",
+"textAlign": "center",
+"label": "CO"      
+},
+{
+"width": "95",
+"textAlign": "left",
+"label": "NUMBER"      
+}
+]
+}
