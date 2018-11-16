@@ -1,12 +1,12 @@
 {
-"nomecompleto": [
-{
-"primeironome": "cyro",
-"sobrenome": "malek"
-},
-{
-"primeironome": "renata",
-"sobrenome": "zanin"
-}
-]
+  "nomecompleto": [
+     {
+       "primeironome": "cyro",
+       "sobrenome": "malek"
+     },
+     {
+       "primeironome": "renata",
+       "sobrenome": "zanin"
+     }
+  ],
 }
